@@ -1,4 +1,4 @@
-# WEEK3-IP
+# MTN Cote D'Ivore Data Analysis
 
 This is project that entails analysis of data provided by MTN Cote d'Ivoire in order to upgrade its technology infrastructure for its mobile users in Ivory Coast. 
 
